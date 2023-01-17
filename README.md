@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Effyavila92
 - 👀 I’m interested in Python, SQL, data analysis and SIG
-- 🌱 I’m currently learning SQL, Python adn Power BI
+- 🌱 I’m currently learning SQL, Python and Power BI
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me savila921@gmail.com
 
